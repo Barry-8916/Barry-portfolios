@@ -30,7 +30,7 @@ const About = () => {
               <p className="home-about-body">
                 My name is <b className="purple">Barry Liu </b> 
                   and I am a <b className="purple">Senior full-stack developer </b> 
-                    who has 7+ years of experience in software development from<b className="purple">Hong Kong </b>
+                    who has 7+ years of experience in software development from<b className="purple">California </b>
                 <br />
                 <br />
                         I am proficient in various programming languages and frameworks such as &nbsp;

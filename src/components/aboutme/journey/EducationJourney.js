@@ -62,10 +62,10 @@ function EducationJourney() {
             DIPLOMA IN ENGINEERING
           </h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            Venturenix LAB, Hong Kong
+          California State Polytechnic University-Pomona, CA
           </h4>
           <p>
-            Studied Diploma in Computer Technology from Venturenix LAB
+            Studied Diploma in Computer Technology from California State Polytechnic University-Pomona
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -78,11 +78,11 @@ function EducationJourney() {
         >
           <h4 className="vertical-timeline-element-title">GRADUATION</h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-            City University Of Hong Kong, Hong Kong
+          California State Polytechnic University-Pomona
           </h4>
           <p>
-            Studied Bachelor of Science degree in Computer Science and
-            Engineering field from City University Of Hong Kong.
+            Earned Master of Computer Science degree in Computer Science 
+            from California State Polytechnic University-Pomona.
           </p>
         </VerticalTimelineElement>
 

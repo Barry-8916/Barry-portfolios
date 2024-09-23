@@ -133,13 +133,13 @@ export default function Contactus() {
                         <HiOutlineLocationMarker />
                       </div>
                       <p style={{ color: "#fbd9ad" }}>
-                        6-8 Pottinger St, Central, Hong Kong
+                        713 W Duarte RD G828, Arcadia, CA
                       </p>
                     </div>
                   </div>
                   <div className="contact-map">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.7412524073024!2d114.156084353852!3d22.283291042556012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400635668a627%3A0xc33f5f117888c77e!2sLap%20Fai%20Building%2C%206-8%20Pottinger%20St%2C%20Central%2C%20Hong%20Kong!5e0!3m2!1sen!2sus!4v1725607047126!5m2!1sen!2sus"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230.7412524073024!2d114.156084353852!3d22.283291042556012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400635668a627%3A0xc33f5f117888c77e!2sLap%20Fai%20Building%2C%206-8%20Pottinger%20St%2C%20Central%2C%20California!5e0!3m2!1sen!2sus!4v1725607047126!5m2!1sen!2sus"
                       width="600"
                       height="450"
                       allowfullscreen=""
