@@ -44,7 +44,7 @@ export default function MyNav() {
                 color: "#fbd9ad",
               }}
             >
-              JAMES WANG
+              Barry Liu
             </h5>
           </div>
         </Navbar.Brand>
@@ -101,7 +101,7 @@ export default function MyNav() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/JamesWangDev"
+                href="https://github.com/Barry-8916"
                 target="_blank"
                 className="fork-btn-inner"
               >

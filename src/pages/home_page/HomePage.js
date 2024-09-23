@@ -31,7 +31,7 @@ export default function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> James Wang</strong>
+                <strong className="main-name"> Barry Liu</strong>
               </h1>
 
               <div className="typing-homeclass">
@@ -41,7 +41,7 @@ export default function Home() {
                 <ul className="homeaboutsociallinks">
                   <li className="socialicons">
                     <a
-                      href="https://github.com/JamesWangDev"
+                      href="https://github.com/Barry-8916"
                       target="_blank"
                       rel="noreferrer"
                       className="iconcolour  homesocialicons"
@@ -81,7 +81,7 @@ export default function Home() {
                   </li> */}
                   <li className="socialicons">
                     <a
-                      href="mailto:james.wang.dev712@gmail.com/"
+                      href="mailto:barryliu.8916@gmail.com/"
                       target="_blank"
                       rel="noreferrer"
                       className="iconcolour homesocialicons"

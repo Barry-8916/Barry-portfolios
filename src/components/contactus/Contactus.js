@@ -118,14 +118,14 @@ export default function Contactus() {
                 <Col md={7}>
                   <div className="contacts-details">
                     <a
-                      href={`mailto:james.wang.dev712@gmail.com`}
+                      href={`mailto:barryliu.8916@gmail.com`}
                       className="personal-details"
                     >
                       <div className="detailsIcon">
                         <FiAtSign />
                       </div>
                       <p style={{ color: "#fbd9ad" }}>
-                        james.wang.dev712@gmail.com
+                        barryliu.8916@gmail.com
                       </p>
                     </a>
                     <div className="personal-details">

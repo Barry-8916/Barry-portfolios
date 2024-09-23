@@ -10,16 +10,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by JAMES WANG</h3>
+          <h3>Designed and Developed by Barry Liu</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} JAMES WANG</h3>
+          <h3>Copyright © {year} Barry Liu</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/JamesWangDev"
+                href="https://github.com/Barry-8916"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -59,7 +59,7 @@ function Footer() {
             </li> */}
             <li className="social-icons">
               <a
-                href="mailto:james.wang.dev712@gmail.com/"
+                href="mailto:barryliu.8916@gmail.com/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

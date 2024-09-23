@@ -28,7 +28,7 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">James Wang </b> 
+                My name is <b className="purple">Barry Liu </b> 
                   and I am a <b className="purple">Senior full-stack developer </b> 
                     who has 7+ years of experience in software development from<b className="purple">Hong Kong </b>
                 <br />
